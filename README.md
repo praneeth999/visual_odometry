@@ -1,4 +1,4 @@
-# Monocular Video Odometry Using OpenCV
+# Monocular Visual Odometry Using OpenCV
 This is an Python OpenCV based implementation of visual odometery. 
 
 
